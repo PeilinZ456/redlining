@@ -1,0 +1,26 @@
+h1 {
+    background-color:rgb(142, 200, 239);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:darkblue;
+
+}
+
+h2{
+    color:darkblue
+
+}
+main{
+display:flexbox;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+
+}
+
+ul{
+   list-style-position: inside; 
+}
+
