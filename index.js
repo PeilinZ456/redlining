@@ -6,5 +6,4 @@ function topFunction() {document.body.scrollTop = 0; document.documentElement.sc
 
 window.alert('This is a redlining page');
 
-//something Peilin and Chris did (what did u guys do???)
 
